@@ -1,1 +1,37 @@
 
+Banking Information System 
+Develop a prototype of a Banking Information System in Core Java that provides a working preview of the key functionalities of a real banking system. The prototype should demonstrate the core features and flow of the system, showcasing its functionality and usability. 
+Key Functionality to Include in the Prototype: 
+1.	User Registration: Implement a simplified user registration process where users can provide basic details to create an account. 
+2.	Account Management: Develop the ability to create and manage user accounts, including assigning unique account numbers and tracking account balances. 
+3.	Deposit and Withdrawal: Enable users to make deposits and withdrawals from their accounts, updating the account balance accordingly. 
+4.	Fund Transfer: Implement a simplified version of fund transfer functionality, allowing users to transfer funds between their accounts or to other registered users. 
+5.	Account Statements: Provide users with a preview of their account statements, displaying transaction history, dates, amounts, and remaining balances. 
+6.	Password Protection: Develop a basic login system with password authentication to ensure secure access to user accounts. 
+7.	Error Handling: Implement basic error handling mechanisms to handle common exceptions, such as insufficient funds and invalid transactions, and display relevant error messages to users. 
+8.	User Interface: Design a user-friendly interface for the prototype that allows users to navigate through the system, perform banking operations, and view relevant information. 
+9.	Persistence: Implement basic data persistence by storing user account information and transaction history temporarily during the prototype session. 
+By developing this prototype, stakeholders will have a tangible working preview of the key features and functionality of the Banking Information System. This will allow them to evaluate the system's usability, identify any necessary improvements or enhancements, and make informed decisions for further development and deployment of the complete system. 
+
+Minimum Requirements and System Output 
+
+1. User Registration: 
+•	Form Creation: Create a user registration form that prompts users to input their personal details, such as name, address, contact information, and initial deposit amount. 
+•	Output: Upon successful registration, the system will generate a unique account number for the user, and the user's details will be stored in the system's memory or File System. 
+The output will be a confirmation message indicating successful registration. 
+2. Account Management: 
+•	Form Creation: Develop an account management form that allows users to view and update their account information, such as name, address, contact details, and account settings. 
+•	Output: After making any updates or changes, the system will display a confirmation message indicating that the account information has been successfully updated. 
+3. Deposit and Withdrawal: 
+•	Form Creation: Design a form where users can enter the amount they wish to deposit or withdraw from their account. 
+•	Output: Upon successful deposit or withdrawal transaction completion, the system will update the account balance accordingly and display a confirmation message indicating the transaction details, such as the transaction amount and the resulting balance. 
+4. Fund Transfer: 
+•	Form Creation: Create a form that allows users to specify the recipient's account number and the amount they wish to transfer. 
+•	Output: After a successful fund transfer, the system will deduct the transferred amount from the sender's account, add it to the recipient's account, and display a confirmation message indicating the transaction details, including the transferred amount and the updated balances of both accounts. 
+
+
+
+5. Account Statements: 
+
+
+Output: Implement a feature that allows users to view their account statements, which will be displayed as a comprehensive list showing transaction history, including dates, transaction amounts, and resulting balances. Users can access their account statements through a designated section of the system's user interface. 
