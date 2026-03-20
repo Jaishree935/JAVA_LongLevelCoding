@@ -1,0 +1,33 @@
+Console-based expense tracker application 
+Create a console-based expense tracker application that allows users 
+to manage their personal expenses. The application should provide functionalities to record and track expenses, view spending summaries, and manage categories for better organization. 
+Features: 
+1.	Expense Recording: Allow users to enter details of their expenses, including the date, amount, category, and description. The application should provide validation for inputs and store the recorded expenses. 
+2.	Expense Categories: Enable users to create and manage expense categories. Users can assign expenses to specific categories to classify their spending. 
+3.	Expense Tracking: Implement features to track and display the total expenses for a specified time period or by category. Users should be able to view their spending summaries and get insights into their expenditure patterns. 
+4.	Expense Filtering: Provide options for users to filter and view expenses based on specific criteria such as date range, category, or amount. This feature helps users analyze their spending in more detail. 
+5.	Expense Modification and Deletion: Allow users to modify or delete recorded expenses if needed. Users should be able to edit expense details such as date, amount, category, or description. 
+6.	Data Persistence: Ensure that the recorded expenses and category information are stored persistently so that users can access and manage their expenses even after restarting the application. 
+7.	Reports Generation: Implement the ability to generate reports that summarize expenses, such as monthly expense reports or category-wise expense reports. These reports can be displayed in the console for users to review and analyze their spending habits. 
+8.	User-Friendly Interface: Design a user-friendly console interface that provides clear instructions, prompts for user inputs, and formatted displays for expense summaries, category management, and reports. 
+
+
+9.	Error Handling: Implement error handling mechanisms to handle invalid inputs, errors, and exceptions gracefully, providing informative error messages when necessary. 
+This project provides a basic foundation for an expense tracking application, allowing users to record, manage, and analyze their expenses through a console-based interface. You can enhance and expand upon these features based on your project requirements and desired complexity. 
+ 
+ 
+ 
+Inputs and Outputs of an Expense Tracker System: 
+Inputs: 
+1.	Expense Details: Users input the date, amount, category, and description of each expense they want to record. 
+2.	Category Management: Users input commands or options to create, modify, or delete expense categories. 
+3.	Filtering Criteria: Users input criteria such as date range, category, or amount to filter and view specific expenses. 
+4.	Modification or Deletion Requests: Users input the expense details they want to modify or delete, such as the expense ID or specific attributes. 
+Outputs: 
+1.	Confirmation Messages: The system displays confirmation messages upon successfully recording, modifying, or deleting expenses, providing feedback to the user. 
+2.	Expense Summaries: The system outputs summaries of the total expenses for a specified time period or by category, allowing users to track their spending. 
+3.	Filtered Expense Lists: The system displays a list of expenses that meet the specified filtering criteria, helping users view expenses that match their desired parameters. 
+4.	Category Management: The system outputs a list of existing expense categories and their associated expenses, enabling users to manage and organize their expenses. 
+5.	Reports: The system generates and displays reports summarizing expenses, such as monthly expense reports or category-wise expense reports, providing users with insights into their spending habits. 
+6.	Error Messages: In case of invalid inputs, errors, or exceptions, the system displays informative error messages to guide users and handle unexpected scenarios. 
+ 
